@@ -1,0 +1,10 @@
+# Publish only the skill and its documentation from this working folder.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SKILL.md
+!/references/
+/references/*
+!/references/visual-output-contract.md
+!/references/standing-portrait-handoff.md
